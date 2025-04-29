@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mysite3/static/css/main.d4d44c03.css",
+    "main.js": "/mysite3/static/js/main.a0de5c84.js",
+    "static/js/453.bbd998d3.chunk.js": "/mysite3/static/js/453.bbd998d3.chunk.js",
+    "static/media/hanuju.jpg": "/mysite3/static/media/hanuju.576933e9a396a8eef4cf.jpg",
+    "static/media/Samseongrakan.jpg": "/mysite3/static/media/Samseongrakan.824736374fbbed341c9c.jpg",
+    "index.html": "/mysite3/index.html",
+    "main.d4d44c03.css.map": "/mysite3/static/css/main.d4d44c03.css.map",
+    "main.a0de5c84.js.map": "/mysite3/static/js/main.a0de5c84.js.map",
+    "453.bbd998d3.chunk.js.map": "/mysite3/static/js/453.bbd998d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d44c03.css",
+    "static/js/main.a0de5c84.js"
+  ]
+}
