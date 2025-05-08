@@ -7,7 +7,7 @@ const Header = () => {
             <Link to='/' className="logo">MySite</Link>
             <nav className="nav-menu">
                 <ul>
-                    <li><Link to="/">Home</Link></li>
+                    <li><Link to="/home">Home</Link></li>
                     <li><Link to="/about-me">AaboutMe</Link></li>
                     {/* <li><Link to="/gallery">Gallery</Link></li>
                     <li><Link to="/blog">Blog</Link></li>
