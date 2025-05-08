@@ -10,13 +10,14 @@ import AboutMePage from './pages/aboutMe/AboutMePage';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/mysite3">
       <div className="App">
         <header>
           <Header />
         </header>
         <main>
           <Routes>
+            <Route path="/" element={<Navigate to="/home" />} />
             <Route path="/" element={<HomePage />} />
             <Route path="/about-me" element={<AboutMePage />} />
             {/* <Route path="/gallery" element={<GalleryPage />} />
